@@ -24,7 +24,7 @@ A modern Quotes Android app built using **Jetpack Compose** with elegant UI and 
 
 ### 📷 Screenshots
 
-_(Add your screenshots here)_
+_  _
 
 ### 🔗 Author
 
