@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51314877756",
+    "project_id": "quotesapp-323db",
+    "storage_bucket": "quotesapp-323db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51314877756:android:05cabbf05fdda1b793aa39",
+        "android_client_info": {
+          "package_name": "kd.dhyani.quotesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAycI7rTbJbcOLsJFJSzNzxcNRyTPtWURw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

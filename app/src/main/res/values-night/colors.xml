@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="back_arrow">#FFffffff</color>
+    <color name="main_back">#FF000000</color>
+    <color name="bar">#FF18181a</color>
+    <color name="card">#B3B3B3</color>
+    <color name="title">#FFFFFF</color>
+    <color name="writer">#FF979a9a</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
